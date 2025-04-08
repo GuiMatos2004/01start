@@ -1,2 +1,2 @@
 # 01start
- Primeiro repositório versionado git e github
+ Primeiro repositório versionado Git e GitHub
